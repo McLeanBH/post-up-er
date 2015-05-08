@@ -14,3 +14,6 @@ ian:accounts-ui-bootstrap-3
 accounts-password
 tmeasday:errors
 email
+linto:jquery-ui
+jquery-blockui
+jquery-breakpoints

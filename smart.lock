@@ -1,0 +1,21 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "jquery-blockui": {},
+      "jquery-breakpoints": {}
+    },
+    "packages": {
+      "jquery-blockui": {
+        "git": "https://github.com/BenjaminRH/meteor-jquery-blockui.git",
+        "tag": "v2.61.0",
+        "commit": "a27517daf70b0e4df8a2db78250846201058b8eb"
+      },
+      "jquery-breakpoints": {
+        "git": "https://github.com/BenjaminRH/meteor-jquery-breakpoints.git",
+        "tag": "v0.1.0",
+        "commit": "1795b6312b13eef81ddf0f5cd8f75d98fc74b15d"
+      }
+    }
+  }
+}
